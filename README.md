@@ -1,1 +1,1 @@
-# Python
+# Python para não programadores
